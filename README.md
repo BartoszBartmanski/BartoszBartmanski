@@ -22,9 +22,9 @@ Senior Staff Scientist at EMBL Heidelberg. Applied mathematician (PhD, Oxford) w
 |---|---|
 | [Maphelios](https://github.com/zimmermann-kogadeeva-group/Maphelios) | Python package and Streamlit app for gain-of-function screen analysis |
 | [GEMsembler](https://github.com/zimmermann-kogadeeva-group/GEMsembler) | Assembles and compares genome-scale metabolic models across tools (mSystems 2025) |
-| [MetagenomicsPipeline](https://github.com/zimmermann-kogadeeva-group/MetagenomicsPipeline) | [one-line description] |
+| [MetagenomicsPipeline](https://github.com/zimmermann-kogadeeva-group/MetagenomicsPipeline) | Snakemake pipeline for analysing metagenomics data - built on humann and kneadata |
 | [PseudomonasAntibioticsResistance](https://github.com/zimmermann-kogadeeva-group/PseudomonasAntibioticsResistance) | Multi-omics analysis of cross-resistance in P. aeruginosa (mBio 2025) |
-| [PoolingScheme](https://github.com/zimmermann-kogadeeva-group/PoolingScheme) | [one-line description] |
+| [PoolingScheme](https://github.com/zimmermann-kogadeeva-group/PoolingScheme) | Webapp for generating pooling schemes for arrayed experiments |
 
 ## Selected publications
 
